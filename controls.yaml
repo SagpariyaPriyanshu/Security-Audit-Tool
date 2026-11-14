@@ -1,0 +1,8 @@
+# Maps each check id to the standards it supports. Filled in during Phase 3.
+# Use exact recommendation numbers from the CIS Benchmark PDFs and the
+# ACSC Essential Eight Maturity Model, not made-up IDs.
+#
+# Example shape:
+# linux.firewall:
+#   - "CIS Ubuntu 24.04 x.x.x: Ensure ufw service is enabled"
+#   - "Essential Eight: ..."

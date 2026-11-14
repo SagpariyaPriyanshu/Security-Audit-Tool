@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Generated reports (keep the folder, not its contents)
+reports/*
+!reports/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.DS_Store
